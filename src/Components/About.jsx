@@ -31,12 +31,12 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Backend Developer ",
+  "Flutter",
+  "Express js ",
+  "React Js",
+  "Javascript ",
+  "Firebase",
 ];
 
 /**
